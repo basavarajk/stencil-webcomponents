@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "commitizen": "^2.10.1",
+    "conventional-commit-types": "^2.2.0",
+    "cz-conventional-changelog": "^2.1.0",
+    "lerna": "^3.4.3"
+  },
+  "scripts": {
+    "build": "lerna run build --stream",
+    "build-serial": "lerna run build --concurrency 1 --stream",
+    "clean": "lerna clean",
+    "publish": "lerna publish --yes -m 'Publish [ci skip]'",
+    "bootstrap": "lerna bootstrap"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
