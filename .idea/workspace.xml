@@ -28,12 +28,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="json" value="72" />
+          <entry key="json" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="72" />
+          <entry key="JSON" value="82" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -51,11 +51,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -75,9 +75,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/packages/react-demo/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="55" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -97,6 +101,7 @@
         <option value="$PROJECT_DIR$/packages/stenciljs-in-react/package-lock.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/packages/react-demo/package.json" />
       </list>
     </option>
   </component>
@@ -107,6 +112,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/energy-plot/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/girder-client/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/girder-redux/node_modules" />
@@ -116,6 +122,7 @@
     <handled-path value="$PROJECT_DIR$/packages/molecule-vtkjs/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/molecule/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/moljs-es/node_modules" />
+    <handled-path value="$PROJECT_DIR$/packages/react-demo/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/redux/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/rest/node_modules" />
     <handled-path value="$PROJECT_DIR$/packages/sagas/node_modules" />
@@ -17803,12 +17810,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545040481726</updated>
       <workItem from="1545040483157" duration="1043000" />
-      <workItem from="1545069233834" duration="2272000" />
+      <workItem from="1545069233834" duration="2988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3315000" />
+    <option name="totallyTimeSpent" value="4031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -17868,6 +17875,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/packages/stenciljs-in-react/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -17876,19 +17896,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/stenciljs-in-react/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/packages/react-demo/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="380">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="55" />
         </state>
       </provider>
     </entry>
