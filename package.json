@@ -11,7 +11,7 @@
     "clean": "lerna clean",
     "publish": "lerna publish --yes -m 'Publish [ci skip]'",
     "bootstrap": "lerna bootstrap",
-    "start": "npm -C ./packages/stenciljs-in-react run start"
+    "start": "npm -C ./packages/react-demo run start"
   },
   "config": {
     "commitizen": {
