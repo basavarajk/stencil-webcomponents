@@ -1,0 +1,37 @@
+{
+  "name": "stenciljs-in-react",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openchemistry/molecule-vtkjs": "0.3.6",
+    "@openchemistry/sample-data": "0.3.11",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-scripts": "2.1.1",
+    "split-me": "^1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesgenova/stenciljs-in-react.git"
+  },
+  "author": "Alessandro Genova",
+  "license": "MIT",
+  "keywords": [
+    "stenciljs",
+    "webcomponents",
+    "react",
+    "javascript",
+    "typescript"
+  ],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
