@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db3fd662-c989-422d-a486-8d1097401c0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/packages/stenciljs-in-react" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stenciljs-in-react" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stenciljs-in-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stenciljs-in-react/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="db3fd662-c989-422d-a486-8d1097401c0a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17780,6 +17777,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -17804,12 +17802,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545040481726</updated>
       <workItem from="1545040483157" duration="1043000" />
-      <workItem from="1545069233834" duration="1510000" />
+      <workItem from="1545069233834" duration="1764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2553000" />
+    <option name="totallyTimeSpent" value="2807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -17846,6 +17844,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/packages/stenciljs-in-react" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package-lock.json">
