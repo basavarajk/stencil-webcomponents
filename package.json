@@ -10,7 +10,8 @@
     "build-serial": "lerna run build --concurrency 1 --stream",
     "clean": "lerna clean",
     "publish": "lerna publish --yes -m 'Publish [ci skip]'",
-    "bootstrap": "lerna bootstrap"
+    "bootstrap": "lerna bootstrap",
+    "start": "npm -C ./packages/stenciljs-in-react run start"
   },
   "config": {
     "commitizen": {
