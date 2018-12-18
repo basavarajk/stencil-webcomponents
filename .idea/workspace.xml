@@ -27,14 +27,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="60" />
+          <entry key="gitignore" value="67" />
           <entry key="json" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="82" />
-          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="PLAIN_TEXT" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="20">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -17814,12 +17814,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545040481726</updated>
       <workItem from="1545040483157" duration="1043000" />
-      <workItem from="1545069233834" duration="3465000" />
+      <workItem from="1545069233834" duration="3658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4508000" />
+    <option name="totallyTimeSpent" value="4701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -17906,8 +17906,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
